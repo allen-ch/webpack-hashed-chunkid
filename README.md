@@ -3,7 +3,7 @@
 > $ npm i webpack-hashedChunkid --save
 
 ## Usage
-> const hashedChunkIdPlugin = require('webpack-hashedChunkid')
+> const hashedChunkIdPlugin = require('webpack-hashed-chunkid')
 
 > webpackConfig = {
   plugins: [
