@@ -8,13 +8,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/allen-ch/webpack-hashedChunkid.git"
+        "url": "https://github.com/allen-ch/webpack-hashed-chunkid.git"
     },
     "keywords": ["webpack", "plugin","chunkid"],
     "author": "allen",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/allen-ch/webpack-hashedChunkid.git"
+        "url": "https://github.com/allen-ch/webpack-hashed-chunkid.git"
     },
-    "homepage": "https://github.com/allen-ch/webpack-hashedChunkid.git"
+    "homepage": "https://github.com/allen-ch/webpack-hashed-chunkid.git"
 }
